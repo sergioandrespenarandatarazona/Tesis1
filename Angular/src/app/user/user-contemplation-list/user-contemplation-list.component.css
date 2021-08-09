@@ -1,0 +1,10 @@
+.cuadro{
+    margin-bottom: 15px;
+}
+
+.lienzo{
+    width: 1350px;
+    height: 650px;
+    background-color: white;
+    /*opacity: 0.5;*/
+}
